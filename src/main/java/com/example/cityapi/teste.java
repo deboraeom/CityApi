@@ -8,7 +8,7 @@ public class teste {
 
     @GetMapping("/")
     public String retornaTest(){
-        return "helloWorld";
+        return "CityApi";
     }
 
 
