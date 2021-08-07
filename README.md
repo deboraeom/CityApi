@@ -1,8 +1,3 @@
-<ul>
-<li>Nome</li>
-<li>Telefone</li>
-<li>Endereço</li>
-<li>País</li>
 
    
    <li>cityApi</li>
