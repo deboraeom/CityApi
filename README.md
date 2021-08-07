@@ -1,4 +1,4 @@
-<ol>
+<ul>
 <li>Nome</li>
 <li>Telefone</li>
 <li>Endereço</li>
@@ -54,4 +54,4 @@ CREATE EXTENSION earthdistance;<br>
 https://github.com/andrelugomes/digital-innovation-one/blob/master/cities-api<br>
 
 <li> Eu refiz ele com Maven em vez de  Gradlew e adicionei os StateService e CountryService.<br></li>
- </ol>   
+ </ul>   
