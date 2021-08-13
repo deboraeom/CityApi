@@ -1,0 +1,9 @@
+
+<
+java:S1170"!Make this final field static too.(ú©õÔøÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àç¤“
+R
+java:S1128"=Remove this unused import 'com.example.cityapi.Entity.State'.(žÈ®z
+]
+java:S1128"BRemove this unused import 'com.example.cityapi.Mapper.CityMapper'.(¥Í…åûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý¡ƒúÿÿÿÿ
